@@ -14,4 +14,3 @@ pstatp.com
 snssdk.com
 toutiao.com
 123957.com
-keyword:bridge
